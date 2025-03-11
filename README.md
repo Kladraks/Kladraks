@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kladraks
 - 👀 I’m interested in leanr more about code
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me dudu123_tj@hotmail.com
 
 <!---
